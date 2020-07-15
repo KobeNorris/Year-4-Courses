@@ -7,30 +7,30 @@
 |*Type*||Optional|
 |*Credits*||10|
 |*Level*||3|
+|*Theme*||Foundations|
 
 ### Convenor:
-* [Dr Venanzio Capretta](https://www.nottingham.ac.uk/computerscience/people/Venanzio.Capretta)
+* [Dr Andrew Parkes](https://www.nottingham.ac.uk/computerscience/people/Andrew.Parkes)
 
 ### Content:
-* Learning by doing: systemmatically **extending** a medium-sized compiler
-* **Haskell** used as a medium of instruction
-* C-like source language and assembly like target languages
-* **Course** fundamentally language agnostic: the focus is on widely applicable tools and principles
-* Will walk through:
-    1. Parsing;
-    2. Memory organization;
-    3. Optimization;
-    4. Core generation;
+* Theoretical limits on computing & complexity theory
+    * Gives a classification hierachy of problems in CS
+    * The CS equivalent of the periodic table in chemistry, or the range of algorithms encountered in CS
+    * "It is hard to be effective at a new problems if you cannot tell what kind of 'beast' you are dealing with and so be able to look at how other problems in the same class were treated".
+* Carefully examine the complexity classes "P" and "NP"
+    * Includes practial relevance in optimisation (including machine laerning)
+* Other practically important classes such as "PSPACE". Relevance to
+    * Adversarial games - "why are chess/Go/etc.harder than scheduling/TSP/etc"
+* Complexity classes relevant to parallel computation (such as "NC")
+    * "Is there a highly effective way to use multiple cores?", or when is a problem such that is not possible to "fully exploit multiple cores" ? (Useful if studying algorithms to try to exploit cores/cloud computing)  
 
 ### Assessment:
-* CW --------- 25%
-* Exam --------- 75%
+* Exam --------- 100%
 
 ----
 
 ### Comment
 
 * Kobe:     
-    I am really interested in the compiling process and I consider this module really important for CS students. However, the desciption mentioned that [Haskell](https://www.haskell.org/) is used as the medium of instruction. Though the course is language agnostic, Haskell might involves in the coursework developing.
-
+    
     ----
