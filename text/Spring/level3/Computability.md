@@ -7,6 +7,7 @@
 |*Type*||Optional|
 |*Credits*||10|
 |*Level*||3|
+|*Theme*||Foundations|
 
 ### Convenor:
 * [Dr Andrew Parkes](https://www.nottingham.ac.uk/computerscience/people/Andrew.Parkes)
