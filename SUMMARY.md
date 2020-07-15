@@ -8,7 +8,7 @@
         * [Compiler](text/Autumn/level3/Compiler.md)
         * [Mobile Device PRG](text/Autumn/level3/Mobile-Device-Programming.md)
     * [Level 4](README.md)
-        * [DS & AA]()git 
+        * [DS & AA]()
         * [Auto Robot Sys]()
 * [Semester 2](text/Spring/Spring.md)
     * [Level 3](README.md)

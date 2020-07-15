@@ -23,8 +23,8 @@
     4. Core generation;
 
 ### Assessment:
-* CW $\Longrightarrow$ 25%
-* Exam $\Longrightarrow$ 75%
+* CW --------- 25%
+* Exam --------- 75%
 
 ----
 

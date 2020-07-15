@@ -23,9 +23,9 @@
     * CW 2: Open ended app development project
 
 ### Assessment:
-* CW 1 $\Longrightarrow$ 45%
-* CW 2 $\Longrightarrow$ 40%
-* Exam (online) $\Longrightarrow$ 15%
+* CW 1 --------- 45%
+* CW 2 --------- 40%
+* Exam (online) --------- 15%
 
 ----
 

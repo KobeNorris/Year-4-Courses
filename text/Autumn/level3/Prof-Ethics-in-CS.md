@@ -27,9 +27,9 @@
     9. All above within the context of computer system development
 
 ### Assessment:
-* Exam $\Longrightarrow$ 50%
-* CW 1 $\Longrightarrow$ 20%
-* CW 2 $\Longrightarrow$ 30%
+* Exam --------- 50%
+* CW 1 --------- 20%
+* CW 2 --------- 30%
 
 ----
 

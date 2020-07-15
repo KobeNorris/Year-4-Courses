@@ -18,8 +18,8 @@
 * Understand how to pick the right tech for your problem
 
 ### Assessment:
-* Exam $\Longrightarrow$ 70%
-* CW $\Longrightarrow$ 30%
+* Exam --------- 70%
+* CW --------- 30%
 
 ----
 
