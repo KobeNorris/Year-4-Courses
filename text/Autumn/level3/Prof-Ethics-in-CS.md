@@ -37,3 +37,5 @@
 
 * Kobe:     
     I am afraid this course might requires huge amount of rote and hand writing. But because it is a compulsory course, we apparently do not have a second choice.
+
+    ----
