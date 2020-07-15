@@ -7,6 +7,7 @@
 |*Type*||Compulsory|
 |*Credits*||10|
 |*Level*||3|
+|*Theme*||None|
 
 ### Convenor:
 * [Prof Andy Crabtree](https://www.nottingham.ac.uk/computerscience/people/andy.crabtree)

@@ -7,6 +7,7 @@
 |*Type*||Optional|
 |*Credits*||20|
 |*Level*||3|
+|*Theme*||AIMO|
 
 ### Convenor:
 * [Dr Martin Flintham](https://www.nottingham.ac.uk/computerscience/people/Martin.Flintham)

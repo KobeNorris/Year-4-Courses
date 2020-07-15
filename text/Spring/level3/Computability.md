@@ -1,4 +1,4 @@
-# Compiler
+# Computability 
 
 | Attribute || Value |
 |:---------:|:-:|:-----:|
@@ -7,7 +7,6 @@
 |*Type*||Optional|
 |*Credits*||10|
 |*Level*||3|
-|*Theme*||PRG|
 
 ### Convenor:
 * [Dr Venanzio Capretta](https://www.nottingham.ac.uk/computerscience/people/Venanzio.Capretta)
