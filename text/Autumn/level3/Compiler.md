@@ -16,6 +16,11 @@
 * **Haskell** used as a medium of instruction
 * C-like source language and assembly like target languages
 * **Course** fundamentally language agnostic: the focus is on widely applicable tools and principles
+* Will walk through:
+    1. Parsing;
+    2. Memory organization;
+    3. Optimization;
+    4. Core generation;
 
 ### Assessment:
 * CW $\Longrightarrow$ 25%
