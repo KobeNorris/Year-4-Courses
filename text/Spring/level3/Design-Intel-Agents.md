@@ -10,7 +10,7 @@
 |*Theme*||AIMO|
 
 ### Convenor:
-* [Dr Brain Logan](https://www.nottingham.ac.uk/computerscience/people/Brain.Logan)
+* [Dr Brain Logan](https://www.nottingham.ac.uk/computerscience/people/brian.logan)
 
 ### Aim:
 * To develop a basic understanding of the problems and tech of building intelligent agent and multi-agent systems 
